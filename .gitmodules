@@ -1,0 +1,3 @@
+[submodule "applications/controllers/Fin_c"]
+	path = applications/controllers/Fin_c
+	url = https://github.com/SalvadorCastello/Fin_c.git
